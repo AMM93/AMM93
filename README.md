@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 
 Hello there! It's Antonio Moreno, senior Data Scientist with more than 5 years of experience in Data Analytics departments.
 
-- 🔭 I’m currently working on  Liberty Seguros Spain
-- 📫 How to reach me: ant.moreno.martin@gmail.com
+- :office: I’m currently working on  Liberty Seguros Spain
 - :construction_worker: My personal website https://antmorenomartin.wixsite.com/start
+- 
+- 📫 How to reach me: ant.moreno.martin@gmail.com
 
