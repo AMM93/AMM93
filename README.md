@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hello there! It's Antonio Moreno, senior Data Scientist with more than 5 years of experience in Data Analytics departments.
+
+- 🔭 I’m currently working on  Liberty Seguros Spain
+- 📫 How to reach me: ant.moreno.martin@gmail.com
+- :construction_worker: My personal website https://antmorenomartin.wixsite.com/start
+
